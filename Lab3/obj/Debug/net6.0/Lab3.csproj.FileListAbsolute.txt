@@ -1,0 +1,15 @@
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\Lab3.exe
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\Lab3.deps.json
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\Lab3.dll
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\ref\Lab3.dll
+C:\MIS 221\repos\Lab3\bin\Debug\net6.0\Lab3.pdb
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.dll
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.pdb
+C:\MIS 221\repos\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
